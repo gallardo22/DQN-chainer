@@ -7,7 +7,7 @@
  
  # How to run
 
-First, Run the processing code.(maze.pde)
+First, Run the processing code.(maze2.pde)
 
 then, starting window was displayed.
 
