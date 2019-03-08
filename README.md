@@ -14,7 +14,7 @@ then, starting window was displayed.
 and,running python code. Don't cover the start window.
 
 
-$ python dqn_new.py
+$ python dqn_.py
 
 Then, auto-learning will be starting by PyQt4.
  
