@@ -7,7 +7,7 @@
  
  # How to run
 
-First, Run the processing code.(maze2.pde)
+First, Run the processing code.(maze_jikken_small.pde)
 
 then, starting window was displayed.
 
